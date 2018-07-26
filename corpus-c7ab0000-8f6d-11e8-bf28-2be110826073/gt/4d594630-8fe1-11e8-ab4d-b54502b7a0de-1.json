@@ -1,0 +1,4033 @@
+{
+  "id" : "4d594630-8fe1-11e8-ab4d-b54502b7a0de-1",
+  "name" : "crypto_data_1.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Malta Stock Exchange, Crypto Exchange OKEx to Launch Security Tokens Trading Platform\r\n\r\nRipple: XRP (XRP) biggest hurdle is geopolitics not centralization or lack of it\r\n\r\nMajor crypto fund's 2018 report shows record-breaking inflows, 56% of investment coming from institutional investors ...\r\n\r\nPrice Prepares to Test $8K After Bull Breather pic.twitter.com/LUo05kAfWV\r\n\r\n2018 Crypto Investment Report: Institutional Investors Provide 56% of Capital Inflow\r\n\r\nState-Issued Digital Currencies: The Countries Which Adopted, Rejected or Researched the Concept\r\n\r\n'World's First' Trade Blockchain Launches in Singapore to Link China and ASEAN Nations\r\n\r\nVietnam Inches Closer to Suspending Imports of Cryptocurrency Miners\r\n\r\nCanada: Bitcoin Miner Hut 8 Becomes 'Largest' by Capacity After Second Site Opening\r\n\r\n'World's First' Trade Blockchain Launches in Singapore to Link China and ASEAN Nations\r\n\r\nAn administrative district in South Korea's capital implements blockchain for evaluating proposals ...\r\n\r\nSouth Korean Administrative District Builds Blockchain-based 'Proposal Evaluation System'\r\n\r\nFed Chair: Crypto Has No Intrinsic Value, Not a Store of Value, Great for Money Laundering\r\n\r\nBitcoin Price Prepares to Test $8K After Bull Breather\r\n\r\nIOTA (MIOTA) and Qubic Protocol plans to revolutionize the blockchain as we know it\r\n\r\nCrypto Market Makes Minor Retreat Post-Rally, Ether and Bitcoin Cash Down 5%\r\n\r\nAll 'Big Four' Auditors to Trial Blockchain Platform for Financial Reporting pic.twitter.com/ytB0bywK3d\r\n\r\nGXChain (GXS) Partners with Prophet Prediction Sending GXS Price to the Moon\r\n\r\nExclusive: Binance, Neufund Back 'World's First Decentralized Stock Exchange' in Malta\r\n\r\nPR: trade.Io Appoints Banking Veteran David Hannigan to Run OTC Desk\r\n\r\nAll 'Big Four' Auditors to Trial Blockchain Platform for Financial Reporting\r\n\r\nhas replaced as the sixth largest cryptocurrency as per market capitalization, according to @CoinMarketCappic.twitter.com/s9rDtf2aGI\r\n\r\nFounder of $150 Indian Bitcoin Ponzi Offers Compensation to Victims\r\n\r\nThe Daily: Anti-Crypto Politician Backed by Payments Firm, Grayscale Raised $250m in H1\r\n\r\nStablecoins Will Do More Than Just Reduce Crypto Price Volatility pic.twitter.com/KtA7Rl7Ydg\r\n\r\nFounder of $150 Indian Bitcoin Ponzi Offers Compensation to Victims\r\n\r\nGovernment-Backed Blockchain Trade Platform Launches in Singapore pic.twitter.com/cqB6Dz2qWM\r\n\r\nSpecial from Cointelegraph BTC - ETH - pic.twitter.com/6e7urr1hc1\r\n\r\nThe director of the @CFTC's fintech initiative cautioned against what he called \"hasty regulatory pronouncements\"\r\n\r\nStablecoins Will Do More Than Just Reduce Crypto Price Volatility\r\n\r\nCryptojacking Falls in Second Quarter, Coinciding with Crypto Bear Market: Research\r\n\r\nStellar Lumens (XLM) closing in on XRP (XRP) in dollar terms - What's pushing it?\r\n\r\n3 mining companies have joined a list of \"unicorns\" for the first time.\r\n\r\nGovernment-Backed Blockchain Trade Platform Launches in Singapore\r\n\r\nThese Digital Monsters Live on Ethereum, But They'll Fight on Zilliqa pic.twitter.com/7RYjNMiZhf\r\n\r\nPeter Gabriel invests in British blockchain startup Provenance ...\r\n\r\nPeter Gabriel, Former Genesis Frontman, Invests in Blockchain Startup for Food Transport\r\n\r\nNo Matter How You Slice It -- Token Assets Are Coming to Bitcoin Cash\r\n\r\nPeer-to-peer exchange Paxful is doubling down on developing markets.\r\n\r\nThese Digital Monsters Live on Ethereum, But They'll Fight on Zilliqa\r\n\r\n\r\n\r\n",
+  "docLength" : 0,
+  "language" : "EN",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1532509525501,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 85,
+    "text" : "Malta Stock Exchange, Crypto Exchange OKEx to Launch Security Tokens Trading Platform",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 5,
+      "text" : "Malta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 6,
+      "end" : 11,
+      "text" : "Stock",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 12,
+      "end" : 20,
+      "text" : "Exchange",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 20,
+      "end" : 21,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 22,
+      "end" : 28,
+      "text" : "Crypto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 29,
+      "end" : 37,
+      "text" : "Exchange",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 38,
+      "end" : 42,
+      "text" : "OKEx",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 43,
+      "end" : 45,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 46,
+      "end" : 52,
+      "text" : "Launch",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 53,
+      "end" : 61,
+      "text" : "Security",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 62,
+      "end" : 68,
+      "text" : "Tokens",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 69,
+      "end" : 76,
+      "text" : "Trading",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 77,
+      "end" : 85,
+      "text" : "Platform",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 89,
+    "end" : 169,
+    "text" : "Ripple: XRP (XRP) biggest hurdle is geopolitics not centralization or lack of it",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 89,
+      "end" : 95,
+      "text" : "Ripple",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 95,
+      "end" : 96,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 97,
+      "end" : 100,
+      "text" : "XRP",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 101,
+      "end" : 102,
+      "text" : "(",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 102,
+      "end" : 105,
+      "text" : "XRP",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 105,
+      "end" : 106,
+      "text" : ")",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 107,
+      "end" : 114,
+      "text" : "biggest",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 115,
+      "end" : 121,
+      "text" : "hurdle",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 122,
+      "end" : 124,
+      "text" : "is",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 125,
+      "end" : 136,
+      "text" : "geopolitics",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 137,
+      "end" : 140,
+      "text" : "not",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 141,
+      "end" : 155,
+      "text" : "centralization",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 156,
+      "end" : 158,
+      "text" : "or",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 159,
+      "end" : 163,
+      "text" : "lack",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 164,
+      "end" : 166,
+      "text" : "of",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 167,
+      "end" : 169,
+      "text" : "it",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 173,
+    "end" : 293,
+    "text" : "Major crypto fund's 2018 report shows record-breaking inflows, 56% of investment coming from institutional investors ...",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 173,
+      "end" : 178,
+      "text" : "Major",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 179,
+      "end" : 185,
+      "text" : "crypto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 186,
+      "end" : 190,
+      "text" : "fund",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 190,
+      "end" : 192,
+      "text" : "'s",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 193,
+      "end" : 197,
+      "text" : "2018",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 198,
+      "end" : 204,
+      "text" : "report",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 205,
+      "end" : 210,
+      "text" : "shows",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 211,
+      "end" : 226,
+      "text" : "record-breaking",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 227,
+      "end" : 234,
+      "text" : "inflows",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 234,
+      "end" : 235,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t10",
+      "begin" : 236,
+      "end" : 238,
+      "text" : "56",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t11",
+      "begin" : 238,
+      "end" : 239,
+      "text" : "%",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t12",
+      "begin" : 240,
+      "end" : 242,
+      "text" : "of",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t13",
+      "begin" : 243,
+      "end" : 253,
+      "text" : "investment",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t14",
+      "begin" : 254,
+      "end" : 260,
+      "text" : "coming",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t15",
+      "begin" : 261,
+      "end" : 265,
+      "text" : "from",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t16",
+      "begin" : 266,
+      "end" : 279,
+      "text" : "institutional",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t17",
+      "begin" : 280,
+      "end" : 289,
+      "text" : "investors",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t18",
+      "begin" : 290,
+      "end" : 293,
+      "text" : "...",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s3",
+    "begin" : 297,
+    "end" : 370,
+    "text" : "Price Prepares to Test $8K After Bull Breather pic.twitter.com/LUo05kAfWV",
+    "tokens" : [ {
+      "id" : "s3-t0",
+      "begin" : 297,
+      "end" : 302,
+      "text" : "Price",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t1",
+      "begin" : 303,
+      "end" : 311,
+      "text" : "Prepares",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t2",
+      "begin" : 312,
+      "end" : 314,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t3",
+      "begin" : 315,
+      "end" : 319,
+      "text" : "Test",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t4",
+      "begin" : 320,
+      "end" : 321,
+      "text" : "$",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t5",
+      "begin" : 321,
+      "end" : 323,
+      "text" : "8K",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t6",
+      "begin" : 324,
+      "end" : 329,
+      "text" : "After",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t7",
+      "begin" : 330,
+      "end" : 334,
+      "text" : "Bull",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t8",
+      "begin" : 335,
+      "end" : 343,
+      "text" : "Breather",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t9",
+      "begin" : 344,
+      "end" : 370,
+      "text" : "pic.twitter.com/LUo05kAfWV",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s4",
+    "begin" : 374,
+    "end" : 458,
+    "text" : "2018 Crypto Investment Report: Institutional Investors Provide 56% of Capital Inflow",
+    "tokens" : [ {
+      "id" : "s4-t0",
+      "begin" : 374,
+      "end" : 378,
+      "text" : "2018",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t1",
+      "begin" : 379,
+      "end" : 385,
+      "text" : "Crypto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t2",
+      "begin" : 386,
+      "end" : 396,
+      "text" : "Investment",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t3",
+      "begin" : 397,
+      "end" : 403,
+      "text" : "Report",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t4",
+      "begin" : 403,
+      "end" : 404,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t5",
+      "begin" : 405,
+      "end" : 418,
+      "text" : "Institutional",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t6",
+      "begin" : 419,
+      "end" : 428,
+      "text" : "Investors",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t7",
+      "begin" : 429,
+      "end" : 436,
+      "text" : "Provide",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t8",
+      "begin" : 437,
+      "end" : 439,
+      "text" : "56",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t9",
+      "begin" : 439,
+      "end" : 440,
+      "text" : "%",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t10",
+      "begin" : 441,
+      "end" : 443,
+      "text" : "of",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t11",
+      "begin" : 444,
+      "end" : 451,
+      "text" : "Capital",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t12",
+      "begin" : 452,
+      "end" : 458,
+      "text" : "Inflow",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s5",
+    "begin" : 462,
+    "end" : 558,
+    "text" : "State-Issued Digital Currencies: The Countries Which Adopted, Rejected or Researched the Concept",
+    "tokens" : [ {
+      "id" : "s5-t0",
+      "begin" : 462,
+      "end" : 467,
+      "text" : "State",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t1",
+      "begin" : 467,
+      "end" : 468,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t2",
+      "begin" : 468,
+      "end" : 474,
+      "text" : "Issued",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t3",
+      "begin" : 475,
+      "end" : 482,
+      "text" : "Digital",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t4",
+      "begin" : 483,
+      "end" : 493,
+      "text" : "Currencies",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t5",
+      "begin" : 493,
+      "end" : 494,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t6",
+      "begin" : 495,
+      "end" : 498,
+      "text" : "The",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t7",
+      "begin" : 499,
+      "end" : 508,
+      "text" : "Countries",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t8",
+      "begin" : 509,
+      "end" : 514,
+      "text" : "Which",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t9",
+      "begin" : 515,
+      "end" : 522,
+      "text" : "Adopted",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t10",
+      "begin" : 522,
+      "end" : 523,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t11",
+      "begin" : 524,
+      "end" : 532,
+      "text" : "Rejected",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t12",
+      "begin" : 533,
+      "end" : 535,
+      "text" : "or",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t13",
+      "begin" : 536,
+      "end" : 546,
+      "text" : "Researched",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t14",
+      "begin" : 547,
+      "end" : 550,
+      "text" : "the",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t15",
+      "begin" : 551,
+      "end" : 558,
+      "text" : "Concept",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s6",
+    "begin" : 562,
+    "end" : 648,
+    "text" : "'World's First' Trade Blockchain Launches in Singapore to Link China and ASEAN Nations",
+    "tokens" : [ {
+      "id" : "s6-t0",
+      "begin" : 562,
+      "end" : 563,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t1",
+      "begin" : 563,
+      "end" : 568,
+      "text" : "World",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t2",
+      "begin" : 568,
+      "end" : 570,
+      "text" : "'s",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t3",
+      "begin" : 571,
+      "end" : 576,
+      "text" : "First",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t4",
+      "begin" : 576,
+      "end" : 577,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t5",
+      "begin" : 578,
+      "end" : 583,
+      "text" : "Trade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t6",
+      "begin" : 584,
+      "end" : 594,
+      "text" : "Blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t7",
+      "begin" : 595,
+      "end" : 603,
+      "text" : "Launches",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t8",
+      "begin" : 604,
+      "end" : 606,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t9",
+      "begin" : 607,
+      "end" : 616,
+      "text" : "Singapore",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t10",
+      "begin" : 617,
+      "end" : 619,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t11",
+      "begin" : 620,
+      "end" : 624,
+      "text" : "Link",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t12",
+      "begin" : 625,
+      "end" : 630,
+      "text" : "China",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t13",
+      "begin" : 631,
+      "end" : 634,
+      "text" : "and",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t14",
+      "begin" : 635,
+      "end" : 640,
+      "text" : "ASEAN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s6-t15",
+      "begin" : 641,
+      "end" : 648,
+      "text" : "Nations",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s7",
+    "begin" : 652,
+    "end" : 720,
+    "text" : "Vietnam Inches Closer to Suspending Imports of Cryptocurrency Miners",
+    "tokens" : [ {
+      "id" : "s7-t0",
+      "begin" : 652,
+      "end" : 659,
+      "text" : "Vietnam",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t1",
+      "begin" : 660,
+      "end" : 666,
+      "text" : "Inches",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t2",
+      "begin" : 667,
+      "end" : 673,
+      "text" : "Closer",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t3",
+      "begin" : 674,
+      "end" : 676,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t4",
+      "begin" : 677,
+      "end" : 687,
+      "text" : "Suspending",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t5",
+      "begin" : 688,
+      "end" : 695,
+      "text" : "Imports",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t6",
+      "begin" : 696,
+      "end" : 698,
+      "text" : "of",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t7",
+      "begin" : 699,
+      "end" : 713,
+      "text" : "Cryptocurrency",
+      "whiteSpace" : false
+    }, {
+      "id" : "s7-t8",
+      "begin" : 714,
+      "end" : 720,
+      "text" : "Miners",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s8",
+    "begin" : 724,
+    "end" : 807,
+    "text" : "Canada: Bitcoin Miner Hut 8 Becomes 'Largest' by Capacity After Second Site Opening",
+    "tokens" : [ {
+      "id" : "s8-t0",
+      "begin" : 724,
+      "end" : 730,
+      "text" : "Canada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t1",
+      "begin" : 730,
+      "end" : 731,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t2",
+      "begin" : 732,
+      "end" : 739,
+      "text" : "Bitcoin",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t3",
+      "begin" : 740,
+      "end" : 745,
+      "text" : "Miner",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t4",
+      "begin" : 746,
+      "end" : 749,
+      "text" : "Hut",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t5",
+      "begin" : 750,
+      "end" : 751,
+      "text" : "8",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t6",
+      "begin" : 752,
+      "end" : 759,
+      "text" : "Becomes",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t7",
+      "begin" : 760,
+      "end" : 761,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t8",
+      "begin" : 761,
+      "end" : 768,
+      "text" : "Largest",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t9",
+      "begin" : 768,
+      "end" : 769,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t10",
+      "begin" : 770,
+      "end" : 772,
+      "text" : "by",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t11",
+      "begin" : 773,
+      "end" : 781,
+      "text" : "Capacity",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t12",
+      "begin" : 782,
+      "end" : 787,
+      "text" : "After",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t13",
+      "begin" : 788,
+      "end" : 794,
+      "text" : "Second",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t14",
+      "begin" : 795,
+      "end" : 799,
+      "text" : "Site",
+      "whiteSpace" : false
+    }, {
+      "id" : "s8-t15",
+      "begin" : 800,
+      "end" : 807,
+      "text" : "Opening",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s9",
+    "begin" : 811,
+    "end" : 897,
+    "text" : "'World's First' Trade Blockchain Launches in Singapore to Link China and ASEAN Nations",
+    "tokens" : [ {
+      "id" : "s9-t0",
+      "begin" : 811,
+      "end" : 812,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t1",
+      "begin" : 812,
+      "end" : 817,
+      "text" : "World",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t2",
+      "begin" : 817,
+      "end" : 819,
+      "text" : "'s",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t3",
+      "begin" : 820,
+      "end" : 825,
+      "text" : "First",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t4",
+      "begin" : 825,
+      "end" : 826,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t5",
+      "begin" : 827,
+      "end" : 832,
+      "text" : "Trade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t6",
+      "begin" : 833,
+      "end" : 843,
+      "text" : "Blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t7",
+      "begin" : 844,
+      "end" : 852,
+      "text" : "Launches",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t8",
+      "begin" : 853,
+      "end" : 855,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t9",
+      "begin" : 856,
+      "end" : 865,
+      "text" : "Singapore",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t10",
+      "begin" : 866,
+      "end" : 868,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t11",
+      "begin" : 869,
+      "end" : 873,
+      "text" : "Link",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t12",
+      "begin" : 874,
+      "end" : 879,
+      "text" : "China",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t13",
+      "begin" : 880,
+      "end" : 883,
+      "text" : "and",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t14",
+      "begin" : 884,
+      "end" : 889,
+      "text" : "ASEAN",
+      "whiteSpace" : false
+    }, {
+      "id" : "s9-t15",
+      "begin" : 890,
+      "end" : 897,
+      "text" : "Nations",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s10",
+    "begin" : 901,
+    "end" : 1003,
+    "text" : "An administrative district in South Korea's capital implements blockchain for evaluating proposals ...",
+    "tokens" : [ {
+      "id" : "s10-t0",
+      "begin" : 901,
+      "end" : 903,
+      "text" : "An",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t1",
+      "begin" : 904,
+      "end" : 918,
+      "text" : "administrative",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t2",
+      "begin" : 919,
+      "end" : 927,
+      "text" : "district",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t3",
+      "begin" : 928,
+      "end" : 930,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t4",
+      "begin" : 931,
+      "end" : 936,
+      "text" : "South",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t5",
+      "begin" : 937,
+      "end" : 942,
+      "text" : "Korea",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t6",
+      "begin" : 942,
+      "end" : 944,
+      "text" : "'s",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t7",
+      "begin" : 945,
+      "end" : 952,
+      "text" : "capital",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t8",
+      "begin" : 953,
+      "end" : 963,
+      "text" : "implements",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t9",
+      "begin" : 964,
+      "end" : 974,
+      "text" : "blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t10",
+      "begin" : 975,
+      "end" : 978,
+      "text" : "for",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t11",
+      "begin" : 979,
+      "end" : 989,
+      "text" : "evaluating",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t12",
+      "begin" : 990,
+      "end" : 999,
+      "text" : "proposals",
+      "whiteSpace" : false
+    }, {
+      "id" : "s10-t13",
+      "begin" : 1000,
+      "end" : 1003,
+      "text" : "...",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s11",
+    "begin" : 1007,
+    "end" : 1096,
+    "text" : "South Korean Administrative District Builds Blockchain-based 'Proposal Evaluation System'",
+    "tokens" : [ {
+      "id" : "s11-t0",
+      "begin" : 1007,
+      "end" : 1012,
+      "text" : "South",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t1",
+      "begin" : 1013,
+      "end" : 1019,
+      "text" : "Korean",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t2",
+      "begin" : 1020,
+      "end" : 1034,
+      "text" : "Administrative",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t3",
+      "begin" : 1035,
+      "end" : 1043,
+      "text" : "District",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t4",
+      "begin" : 1044,
+      "end" : 1050,
+      "text" : "Builds",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t5",
+      "begin" : 1051,
+      "end" : 1061,
+      "text" : "Blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t6",
+      "begin" : 1061,
+      "end" : 1062,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t7",
+      "begin" : 1062,
+      "end" : 1067,
+      "text" : "based",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t8",
+      "begin" : 1068,
+      "end" : 1069,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t9",
+      "begin" : 1069,
+      "end" : 1077,
+      "text" : "Proposal",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t10",
+      "begin" : 1078,
+      "end" : 1088,
+      "text" : "Evaluation",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t11",
+      "begin" : 1089,
+      "end" : 1095,
+      "text" : "System",
+      "whiteSpace" : false
+    }, {
+      "id" : "s11-t12",
+      "begin" : 1095,
+      "end" : 1096,
+      "text" : "'",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s12",
+    "begin" : 1100,
+    "end" : 1190,
+    "text" : "Fed Chair: Crypto Has No Intrinsic Value, Not a Store of Value, Great for Money Laundering",
+    "tokens" : [ {
+      "id" : "s12-t0",
+      "begin" : 1100,
+      "end" : 1103,
+      "text" : "Fed",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t1",
+      "begin" : 1104,
+      "end" : 1109,
+      "text" : "Chair",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t2",
+      "begin" : 1109,
+      "end" : 1110,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t3",
+      "begin" : 1111,
+      "end" : 1117,
+      "text" : "Crypto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t4",
+      "begin" : 1118,
+      "end" : 1121,
+      "text" : "Has",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t5",
+      "begin" : 1122,
+      "end" : 1124,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t6",
+      "begin" : 1125,
+      "end" : 1134,
+      "text" : "Intrinsic",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t7",
+      "begin" : 1135,
+      "end" : 1140,
+      "text" : "Value",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t8",
+      "begin" : 1140,
+      "end" : 1141,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t9",
+      "begin" : 1142,
+      "end" : 1145,
+      "text" : "Not",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t10",
+      "begin" : 1146,
+      "end" : 1147,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t11",
+      "begin" : 1148,
+      "end" : 1153,
+      "text" : "Store",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t12",
+      "begin" : 1154,
+      "end" : 1156,
+      "text" : "of",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t13",
+      "begin" : 1157,
+      "end" : 1162,
+      "text" : "Value",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t14",
+      "begin" : 1162,
+      "end" : 1163,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t15",
+      "begin" : 1164,
+      "end" : 1169,
+      "text" : "Great",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t16",
+      "begin" : 1170,
+      "end" : 1173,
+      "text" : "for",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t17",
+      "begin" : 1174,
+      "end" : 1179,
+      "text" : "Money",
+      "whiteSpace" : false
+    }, {
+      "id" : "s12-t18",
+      "begin" : 1180,
+      "end" : 1190,
+      "text" : "Laundering",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s13",
+    "begin" : 1194,
+    "end" : 1248,
+    "text" : "Bitcoin Price Prepares to Test $8K After Bull Breather",
+    "tokens" : [ {
+      "id" : "s13-t0",
+      "begin" : 1194,
+      "end" : 1201,
+      "text" : "Bitcoin",
+      "whiteSpace" : false
+    }, {
+      "id" : "s13-t1",
+      "begin" : 1202,
+      "end" : 1207,
+      "text" : "Price",
+      "whiteSpace" : false
+    }, {
+      "id" : "s13-t2",
+      "begin" : 1208,
+      "end" : 1216,
+      "text" : "Prepares",
+      "whiteSpace" : false
+    }, {
+      "id" : "s13-t3",
+      "begin" : 1217,
+      "end" : 1219,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s13-t4",
+      "begin" : 1220,
+      "end" : 1224,
+      "text" : "Test",
+      "whiteSpace" : false
+    }, {
+      "id" : "s13-t5",
+      "begin" : 1225,
+      "end" : 1226,
+      "text" : "$",
+      "whiteSpace" : false
+    }, {
+      "id" : "s13-t6",
+      "begin" : 1226,
+      "end" : 1228,
+      "text" : "8K",
+      "whiteSpace" : false
+    }, {
+      "id" : "s13-t7",
+      "begin" : 1229,
+      "end" : 1234,
+      "text" : "After",
+      "whiteSpace" : false
+    }, {
+      "id" : "s13-t8",
+      "begin" : 1235,
+      "end" : 1239,
+      "text" : "Bull",
+      "whiteSpace" : false
+    }, {
+      "id" : "s13-t9",
+      "begin" : 1240,
+      "end" : 1248,
+      "text" : "Breather",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s14",
+    "begin" : 1252,
+    "end" : 1335,
+    "text" : "IOTA (MIOTA) and Qubic Protocol plans to revolutionize the blockchain as we know it",
+    "tokens" : [ {
+      "id" : "s14-t0",
+      "begin" : 1252,
+      "end" : 1256,
+      "text" : "IOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t1",
+      "begin" : 1257,
+      "end" : 1258,
+      "text" : "(",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t2",
+      "begin" : 1258,
+      "end" : 1263,
+      "text" : "MIOTA",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t3",
+      "begin" : 1263,
+      "end" : 1264,
+      "text" : ")",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t4",
+      "begin" : 1265,
+      "end" : 1268,
+      "text" : "and",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t5",
+      "begin" : 1269,
+      "end" : 1274,
+      "text" : "Qubic",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t6",
+      "begin" : 1275,
+      "end" : 1283,
+      "text" : "Protocol",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t7",
+      "begin" : 1284,
+      "end" : 1289,
+      "text" : "plans",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t8",
+      "begin" : 1290,
+      "end" : 1292,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t9",
+      "begin" : 1293,
+      "end" : 1306,
+      "text" : "revolutionize",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t10",
+      "begin" : 1307,
+      "end" : 1310,
+      "text" : "the",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t11",
+      "begin" : 1311,
+      "end" : 1321,
+      "text" : "blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t12",
+      "begin" : 1322,
+      "end" : 1324,
+      "text" : "as",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t13",
+      "begin" : 1325,
+      "end" : 1327,
+      "text" : "we",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t14",
+      "begin" : 1328,
+      "end" : 1332,
+      "text" : "know",
+      "whiteSpace" : false
+    }, {
+      "id" : "s14-t15",
+      "begin" : 1333,
+      "end" : 1335,
+      "text" : "it",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s15",
+    "begin" : 1339,
+    "end" : 1415,
+    "text" : "Crypto Market Makes Minor Retreat Post-Rally, Ether and Bitcoin Cash Down 5%",
+    "tokens" : [ {
+      "id" : "s15-t0",
+      "begin" : 1339,
+      "end" : 1345,
+      "text" : "Crypto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t1",
+      "begin" : 1346,
+      "end" : 1352,
+      "text" : "Market",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t2",
+      "begin" : 1353,
+      "end" : 1358,
+      "text" : "Makes",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t3",
+      "begin" : 1359,
+      "end" : 1364,
+      "text" : "Minor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t4",
+      "begin" : 1365,
+      "end" : 1372,
+      "text" : "Retreat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t5",
+      "begin" : 1373,
+      "end" : 1377,
+      "text" : "Post",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t6",
+      "begin" : 1377,
+      "end" : 1378,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t7",
+      "begin" : 1378,
+      "end" : 1383,
+      "text" : "Rally",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t8",
+      "begin" : 1383,
+      "end" : 1384,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t9",
+      "begin" : 1385,
+      "end" : 1390,
+      "text" : "Ether",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t10",
+      "begin" : 1391,
+      "end" : 1394,
+      "text" : "and",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t11",
+      "begin" : 1395,
+      "end" : 1402,
+      "text" : "Bitcoin",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t12",
+      "begin" : 1403,
+      "end" : 1407,
+      "text" : "Cash",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t13",
+      "begin" : 1408,
+      "end" : 1412,
+      "text" : "Down",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t14",
+      "begin" : 1413,
+      "end" : 1414,
+      "text" : "5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s15-t15",
+      "begin" : 1414,
+      "end" : 1415,
+      "text" : "%",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s16",
+    "begin" : 1419,
+    "end" : 1522,
+    "text" : "All 'Big Four' Auditors to Trial Blockchain Platform for Financial Reporting pic.twitter.com/ytB0bywK3d",
+    "tokens" : [ {
+      "id" : "s16-t0",
+      "begin" : 1419,
+      "end" : 1422,
+      "text" : "All",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t1",
+      "begin" : 1423,
+      "end" : 1427,
+      "text" : "'Big",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t2",
+      "begin" : 1428,
+      "end" : 1432,
+      "text" : "Four",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t3",
+      "begin" : 1432,
+      "end" : 1433,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t4",
+      "begin" : 1434,
+      "end" : 1442,
+      "text" : "Auditors",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t5",
+      "begin" : 1443,
+      "end" : 1445,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t6",
+      "begin" : 1446,
+      "end" : 1451,
+      "text" : "Trial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t7",
+      "begin" : 1452,
+      "end" : 1462,
+      "text" : "Blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t8",
+      "begin" : 1463,
+      "end" : 1471,
+      "text" : "Platform",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t9",
+      "begin" : 1472,
+      "end" : 1475,
+      "text" : "for",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t10",
+      "begin" : 1476,
+      "end" : 1485,
+      "text" : "Financial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t11",
+      "begin" : 1486,
+      "end" : 1495,
+      "text" : "Reporting",
+      "whiteSpace" : false
+    }, {
+      "id" : "s16-t12",
+      "begin" : 1496,
+      "end" : 1522,
+      "text" : "pic.twitter.com/ytB0bywK3d",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s17",
+    "begin" : 1526,
+    "end" : 1602,
+    "text" : "GXChain (GXS) Partners with Prophet Prediction Sending GXS Price to the Moon",
+    "tokens" : [ {
+      "id" : "s17-t0",
+      "begin" : 1526,
+      "end" : 1533,
+      "text" : "GXChain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t1",
+      "begin" : 1534,
+      "end" : 1535,
+      "text" : "(",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t2",
+      "begin" : 1535,
+      "end" : 1538,
+      "text" : "GXS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t3",
+      "begin" : 1538,
+      "end" : 1539,
+      "text" : ")",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t4",
+      "begin" : 1540,
+      "end" : 1548,
+      "text" : "Partners",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t5",
+      "begin" : 1549,
+      "end" : 1553,
+      "text" : "with",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t6",
+      "begin" : 1554,
+      "end" : 1561,
+      "text" : "Prophet",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t7",
+      "begin" : 1562,
+      "end" : 1572,
+      "text" : "Prediction",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t8",
+      "begin" : 1573,
+      "end" : 1580,
+      "text" : "Sending",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t9",
+      "begin" : 1581,
+      "end" : 1584,
+      "text" : "GXS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t10",
+      "begin" : 1585,
+      "end" : 1590,
+      "text" : "Price",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t11",
+      "begin" : 1591,
+      "end" : 1593,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t12",
+      "begin" : 1594,
+      "end" : 1597,
+      "text" : "the",
+      "whiteSpace" : false
+    }, {
+      "id" : "s17-t13",
+      "begin" : 1598,
+      "end" : 1602,
+      "text" : "Moon",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s18",
+    "begin" : 1606,
+    "end" : 1692,
+    "text" : "Exclusive: Binance, Neufund Back 'World's First Decentralized Stock Exchange' in Malta",
+    "tokens" : [ {
+      "id" : "s18-t0",
+      "begin" : 1606,
+      "end" : 1615,
+      "text" : "Exclusive",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t1",
+      "begin" : 1615,
+      "end" : 1616,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t2",
+      "begin" : 1617,
+      "end" : 1624,
+      "text" : "Binance",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t3",
+      "begin" : 1624,
+      "end" : 1625,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t4",
+      "begin" : 1626,
+      "end" : 1633,
+      "text" : "Neufund",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t5",
+      "begin" : 1634,
+      "end" : 1638,
+      "text" : "Back",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t6",
+      "begin" : 1639,
+      "end" : 1640,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t7",
+      "begin" : 1640,
+      "end" : 1645,
+      "text" : "World",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t8",
+      "begin" : 1645,
+      "end" : 1647,
+      "text" : "'s",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t9",
+      "begin" : 1648,
+      "end" : 1653,
+      "text" : "First",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t10",
+      "begin" : 1654,
+      "end" : 1667,
+      "text" : "Decentralized",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t11",
+      "begin" : 1668,
+      "end" : 1673,
+      "text" : "Stock",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t12",
+      "begin" : 1674,
+      "end" : 1682,
+      "text" : "Exchange",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t13",
+      "begin" : 1682,
+      "end" : 1683,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t14",
+      "begin" : 1684,
+      "end" : 1686,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s18-t15",
+      "begin" : 1687,
+      "end" : 1692,
+      "text" : "Malta",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s19",
+    "begin" : 1696,
+    "end" : 1706,
+    "text" : "PR: trade.",
+    "tokens" : [ {
+      "id" : "s19-t0",
+      "begin" : 1696,
+      "end" : 1698,
+      "text" : "PR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s19-t1",
+      "begin" : 1698,
+      "end" : 1699,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s19-t2",
+      "begin" : 1700,
+      "end" : 1705,
+      "text" : "trade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s19-t3",
+      "begin" : 1705,
+      "end" : 1706,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s20",
+    "begin" : 1706,
+    "end" : 1764,
+    "text" : "Io Appoints Banking Veteran David Hannigan to Run OTC Desk",
+    "tokens" : [ {
+      "id" : "s20-t0",
+      "begin" : 1706,
+      "end" : 1708,
+      "text" : "Io",
+      "whiteSpace" : false
+    }, {
+      "id" : "s20-t1",
+      "begin" : 1709,
+      "end" : 1717,
+      "text" : "Appoints",
+      "whiteSpace" : false
+    }, {
+      "id" : "s20-t2",
+      "begin" : 1718,
+      "end" : 1725,
+      "text" : "Banking",
+      "whiteSpace" : false
+    }, {
+      "id" : "s20-t3",
+      "begin" : 1726,
+      "end" : 1733,
+      "text" : "Veteran",
+      "whiteSpace" : false
+    }, {
+      "id" : "s20-t4",
+      "begin" : 1734,
+      "end" : 1739,
+      "text" : "David",
+      "whiteSpace" : false
+    }, {
+      "id" : "s20-t5",
+      "begin" : 1740,
+      "end" : 1748,
+      "text" : "Hannigan",
+      "whiteSpace" : false
+    }, {
+      "id" : "s20-t6",
+      "begin" : 1749,
+      "end" : 1751,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s20-t7",
+      "begin" : 1752,
+      "end" : 1755,
+      "text" : "Run",
+      "whiteSpace" : false
+    }, {
+      "id" : "s20-t8",
+      "begin" : 1756,
+      "end" : 1759,
+      "text" : "OTC",
+      "whiteSpace" : false
+    }, {
+      "id" : "s20-t9",
+      "begin" : 1760,
+      "end" : 1764,
+      "text" : "Desk",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s21",
+    "begin" : 1768,
+    "end" : 1844,
+    "text" : "All 'Big Four' Auditors to Trial Blockchain Platform for Financial Reporting",
+    "tokens" : [ {
+      "id" : "s21-t0",
+      "begin" : 1768,
+      "end" : 1771,
+      "text" : "All",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t1",
+      "begin" : 1772,
+      "end" : 1776,
+      "text" : "'Big",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t2",
+      "begin" : 1777,
+      "end" : 1781,
+      "text" : "Four",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t3",
+      "begin" : 1781,
+      "end" : 1782,
+      "text" : "'",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t4",
+      "begin" : 1783,
+      "end" : 1791,
+      "text" : "Auditors",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t5",
+      "begin" : 1792,
+      "end" : 1794,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t6",
+      "begin" : 1795,
+      "end" : 1800,
+      "text" : "Trial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t7",
+      "begin" : 1801,
+      "end" : 1811,
+      "text" : "Blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t8",
+      "begin" : 1812,
+      "end" : 1820,
+      "text" : "Platform",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t9",
+      "begin" : 1821,
+      "end" : 1824,
+      "text" : "for",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t10",
+      "begin" : 1825,
+      "end" : 1834,
+      "text" : "Financial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s21-t11",
+      "begin" : 1835,
+      "end" : 1844,
+      "text" : "Reporting",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s22",
+    "begin" : 1848,
+    "end" : 1980,
+    "text" : "has replaced as the sixth largest cryptocurrency as per market capitalization, according to @CoinMarketCappic.twitter.com/s9rDtf2aGI",
+    "tokens" : [ {
+      "id" : "s22-t0",
+      "begin" : 1848,
+      "end" : 1851,
+      "text" : "has",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t1",
+      "begin" : 1852,
+      "end" : 1860,
+      "text" : "replaced",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t2",
+      "begin" : 1861,
+      "end" : 1863,
+      "text" : "as",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t3",
+      "begin" : 1864,
+      "end" : 1867,
+      "text" : "the",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t4",
+      "begin" : 1868,
+      "end" : 1873,
+      "text" : "sixth",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t5",
+      "begin" : 1874,
+      "end" : 1881,
+      "text" : "largest",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t6",
+      "begin" : 1882,
+      "end" : 1896,
+      "text" : "cryptocurrency",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t7",
+      "begin" : 1897,
+      "end" : 1899,
+      "text" : "as",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t8",
+      "begin" : 1900,
+      "end" : 1903,
+      "text" : "per",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t9",
+      "begin" : 1904,
+      "end" : 1910,
+      "text" : "market",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t10",
+      "begin" : 1911,
+      "end" : 1925,
+      "text" : "capitalization",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t11",
+      "begin" : 1925,
+      "end" : 1926,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t12",
+      "begin" : 1927,
+      "end" : 1936,
+      "text" : "according",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t13",
+      "begin" : 1937,
+      "end" : 1939,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s22-t14",
+      "begin" : 1940,
+      "end" : 1980,
+      "text" : "@CoinMarketCappic.twitter.com/s9rDtf2aGI",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s23",
+    "begin" : 1984,
+    "end" : 2051,
+    "text" : "Founder of $150 Indian Bitcoin Ponzi Offers Compensation to Victims",
+    "tokens" : [ {
+      "id" : "s23-t0",
+      "begin" : 1984,
+      "end" : 1991,
+      "text" : "Founder",
+      "whiteSpace" : false
+    }, {
+      "id" : "s23-t1",
+      "begin" : 1992,
+      "end" : 1994,
+      "text" : "of",
+      "whiteSpace" : false
+    }, {
+      "id" : "s23-t2",
+      "begin" : 1995,
+      "end" : 1996,
+      "text" : "$",
+      "whiteSpace" : false
+    }, {
+      "id" : "s23-t3",
+      "begin" : 1996,
+      "end" : 1999,
+      "text" : "150",
+      "whiteSpace" : false
+    }, {
+      "id" : "s23-t4",
+      "begin" : 2000,
+      "end" : 2006,
+      "text" : "Indian",
+      "whiteSpace" : false
+    }, {
+      "id" : "s23-t5",
+      "begin" : 2007,
+      "end" : 2014,
+      "text" : "Bitcoin",
+      "whiteSpace" : false
+    }, {
+      "id" : "s23-t6",
+      "begin" : 2015,
+      "end" : 2020,
+      "text" : "Ponzi",
+      "whiteSpace" : false
+    }, {
+      "id" : "s23-t7",
+      "begin" : 2021,
+      "end" : 2027,
+      "text" : "Offers",
+      "whiteSpace" : false
+    }, {
+      "id" : "s23-t8",
+      "begin" : 2028,
+      "end" : 2040,
+      "text" : "Compensation",
+      "whiteSpace" : false
+    }, {
+      "id" : "s23-t9",
+      "begin" : 2041,
+      "end" : 2043,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s23-t10",
+      "begin" : 2044,
+      "end" : 2051,
+      "text" : "Victims",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s24",
+    "begin" : 2055,
+    "end" : 2142,
+    "text" : "The Daily: Anti-Crypto Politician Backed by Payments Firm, Grayscale Raised $250m in H1",
+    "tokens" : [ {
+      "id" : "s24-t0",
+      "begin" : 2055,
+      "end" : 2058,
+      "text" : "The",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t1",
+      "begin" : 2059,
+      "end" : 2064,
+      "text" : "Daily",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t2",
+      "begin" : 2064,
+      "end" : 2065,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t3",
+      "begin" : 2066,
+      "end" : 2070,
+      "text" : "Anti",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t4",
+      "begin" : 2070,
+      "end" : 2071,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t5",
+      "begin" : 2071,
+      "end" : 2077,
+      "text" : "Crypto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t6",
+      "begin" : 2078,
+      "end" : 2088,
+      "text" : "Politician",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t7",
+      "begin" : 2089,
+      "end" : 2095,
+      "text" : "Backed",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t8",
+      "begin" : 2096,
+      "end" : 2098,
+      "text" : "by",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t9",
+      "begin" : 2099,
+      "end" : 2107,
+      "text" : "Payments",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t10",
+      "begin" : 2108,
+      "end" : 2112,
+      "text" : "Firm",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t11",
+      "begin" : 2112,
+      "end" : 2113,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t12",
+      "begin" : 2114,
+      "end" : 2123,
+      "text" : "Grayscale",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t13",
+      "begin" : 2124,
+      "end" : 2130,
+      "text" : "Raised",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t14",
+      "begin" : 2131,
+      "end" : 2132,
+      "text" : "$",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t15",
+      "begin" : 2132,
+      "end" : 2136,
+      "text" : "250m",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t16",
+      "begin" : 2137,
+      "end" : 2139,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s24-t17",
+      "begin" : 2140,
+      "end" : 2142,
+      "text" : "H1",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s25",
+    "begin" : 2146,
+    "end" : 2238,
+    "text" : "Stablecoins Will Do More Than Just Reduce Crypto Price Volatility pic.twitter.com/KtA7Rl7Ydg",
+    "tokens" : [ {
+      "id" : "s25-t0",
+      "begin" : 2146,
+      "end" : 2157,
+      "text" : "Stablecoins",
+      "whiteSpace" : false
+    }, {
+      "id" : "s25-t1",
+      "begin" : 2158,
+      "end" : 2162,
+      "text" : "Will",
+      "whiteSpace" : false
+    }, {
+      "id" : "s25-t2",
+      "begin" : 2163,
+      "end" : 2165,
+      "text" : "Do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s25-t3",
+      "begin" : 2166,
+      "end" : 2170,
+      "text" : "More",
+      "whiteSpace" : false
+    }, {
+      "id" : "s25-t4",
+      "begin" : 2171,
+      "end" : 2175,
+      "text" : "Than",
+      "whiteSpace" : false
+    }, {
+      "id" : "s25-t5",
+      "begin" : 2176,
+      "end" : 2180,
+      "text" : "Just",
+      "whiteSpace" : false
+    }, {
+      "id" : "s25-t6",
+      "begin" : 2181,
+      "end" : 2187,
+      "text" : "Reduce",
+      "whiteSpace" : false
+    }, {
+      "id" : "s25-t7",
+      "begin" : 2188,
+      "end" : 2194,
+      "text" : "Crypto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s25-t8",
+      "begin" : 2195,
+      "end" : 2200,
+      "text" : "Price",
+      "whiteSpace" : false
+    }, {
+      "id" : "s25-t9",
+      "begin" : 2201,
+      "end" : 2211,
+      "text" : "Volatility",
+      "whiteSpace" : false
+    }, {
+      "id" : "s25-t10",
+      "begin" : 2212,
+      "end" : 2238,
+      "text" : "pic.twitter.com/KtA7Rl7Ydg",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s26",
+    "begin" : 2242,
+    "end" : 2309,
+    "text" : "Founder of $150 Indian Bitcoin Ponzi Offers Compensation to Victims",
+    "tokens" : [ {
+      "id" : "s26-t0",
+      "begin" : 2242,
+      "end" : 2249,
+      "text" : "Founder",
+      "whiteSpace" : false
+    }, {
+      "id" : "s26-t1",
+      "begin" : 2250,
+      "end" : 2252,
+      "text" : "of",
+      "whiteSpace" : false
+    }, {
+      "id" : "s26-t2",
+      "begin" : 2253,
+      "end" : 2254,
+      "text" : "$",
+      "whiteSpace" : false
+    }, {
+      "id" : "s26-t3",
+      "begin" : 2254,
+      "end" : 2257,
+      "text" : "150",
+      "whiteSpace" : false
+    }, {
+      "id" : "s26-t4",
+      "begin" : 2258,
+      "end" : 2264,
+      "text" : "Indian",
+      "whiteSpace" : false
+    }, {
+      "id" : "s26-t5",
+      "begin" : 2265,
+      "end" : 2272,
+      "text" : "Bitcoin",
+      "whiteSpace" : false
+    }, {
+      "id" : "s26-t6",
+      "begin" : 2273,
+      "end" : 2278,
+      "text" : "Ponzi",
+      "whiteSpace" : false
+    }, {
+      "id" : "s26-t7",
+      "begin" : 2279,
+      "end" : 2285,
+      "text" : "Offers",
+      "whiteSpace" : false
+    }, {
+      "id" : "s26-t8",
+      "begin" : 2286,
+      "end" : 2298,
+      "text" : "Compensation",
+      "whiteSpace" : false
+    }, {
+      "id" : "s26-t9",
+      "begin" : 2299,
+      "end" : 2301,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s26-t10",
+      "begin" : 2302,
+      "end" : 2309,
+      "text" : "Victims",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s27",
+    "begin" : 2313,
+    "end" : 2405,
+    "text" : "Government-Backed Blockchain Trade Platform Launches in Singapore pic.twitter.com/cqB6Dz2qWM",
+    "tokens" : [ {
+      "id" : "s27-t0",
+      "begin" : 2313,
+      "end" : 2323,
+      "text" : "Government",
+      "whiteSpace" : false
+    }, {
+      "id" : "s27-t1",
+      "begin" : 2323,
+      "end" : 2324,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s27-t2",
+      "begin" : 2324,
+      "end" : 2330,
+      "text" : "Backed",
+      "whiteSpace" : false
+    }, {
+      "id" : "s27-t3",
+      "begin" : 2331,
+      "end" : 2341,
+      "text" : "Blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s27-t4",
+      "begin" : 2342,
+      "end" : 2347,
+      "text" : "Trade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s27-t5",
+      "begin" : 2348,
+      "end" : 2356,
+      "text" : "Platform",
+      "whiteSpace" : false
+    }, {
+      "id" : "s27-t6",
+      "begin" : 2357,
+      "end" : 2365,
+      "text" : "Launches",
+      "whiteSpace" : false
+    }, {
+      "id" : "s27-t7",
+      "begin" : 2366,
+      "end" : 2368,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s27-t8",
+      "begin" : 2369,
+      "end" : 2378,
+      "text" : "Singapore",
+      "whiteSpace" : false
+    }, {
+      "id" : "s27-t9",
+      "begin" : 2379,
+      "end" : 2405,
+      "text" : "pic.twitter.com/cqB6Dz2qWM",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s28",
+    "begin" : 2409,
+    "end" : 2474,
+    "text" : "Special from Cointelegraph BTC - ETH - pic.twitter.com/6e7urr1hc1",
+    "tokens" : [ {
+      "id" : "s28-t0",
+      "begin" : 2409,
+      "end" : 2416,
+      "text" : "Special",
+      "whiteSpace" : false
+    }, {
+      "id" : "s28-t1",
+      "begin" : 2417,
+      "end" : 2421,
+      "text" : "from",
+      "whiteSpace" : false
+    }, {
+      "id" : "s28-t2",
+      "begin" : 2422,
+      "end" : 2435,
+      "text" : "Cointelegraph",
+      "whiteSpace" : false
+    }, {
+      "id" : "s28-t3",
+      "begin" : 2436,
+      "end" : 2439,
+      "text" : "BTC",
+      "whiteSpace" : false
+    }, {
+      "id" : "s28-t4",
+      "begin" : 2440,
+      "end" : 2441,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s28-t5",
+      "begin" : 2442,
+      "end" : 2445,
+      "text" : "ETH",
+      "whiteSpace" : false
+    }, {
+      "id" : "s28-t6",
+      "begin" : 2446,
+      "end" : 2447,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s28-t7",
+      "begin" : 2448,
+      "end" : 2474,
+      "text" : "pic.twitter.com/6e7urr1hc1",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s29",
+    "begin" : 2478,
+    "end" : 2591,
+    "text" : "The director of the @CFTC's fintech initiative cautioned against what he called \"hasty regulatory pronouncements\"",
+    "tokens" : [ {
+      "id" : "s29-t0",
+      "begin" : 2478,
+      "end" : 2481,
+      "text" : "The",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t1",
+      "begin" : 2482,
+      "end" : 2490,
+      "text" : "director",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t2",
+      "begin" : 2491,
+      "end" : 2493,
+      "text" : "of",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t3",
+      "begin" : 2494,
+      "end" : 2497,
+      "text" : "the",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t4",
+      "begin" : 2498,
+      "end" : 2503,
+      "text" : "@CFTC",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t5",
+      "begin" : 2503,
+      "end" : 2505,
+      "text" : "'s",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t6",
+      "begin" : 2506,
+      "end" : 2513,
+      "text" : "fintech",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t7",
+      "begin" : 2514,
+      "end" : 2524,
+      "text" : "initiative",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t8",
+      "begin" : 2525,
+      "end" : 2534,
+      "text" : "cautioned",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t9",
+      "begin" : 2535,
+      "end" : 2542,
+      "text" : "against",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t10",
+      "begin" : 2543,
+      "end" : 2547,
+      "text" : "what",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t11",
+      "begin" : 2548,
+      "end" : 2550,
+      "text" : "he",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t12",
+      "begin" : 2551,
+      "end" : 2557,
+      "text" : "called",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t13",
+      "begin" : 2558,
+      "end" : 2559,
+      "text" : "\"",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t14",
+      "begin" : 2559,
+      "end" : 2564,
+      "text" : "hasty",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t15",
+      "begin" : 2565,
+      "end" : 2575,
+      "text" : "regulatory",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t16",
+      "begin" : 2576,
+      "end" : 2590,
+      "text" : "pronouncements",
+      "whiteSpace" : false
+    }, {
+      "id" : "s29-t17",
+      "begin" : 2590,
+      "end" : 2591,
+      "text" : "\"",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s30",
+    "begin" : 2595,
+    "end" : 2660,
+    "text" : "Stablecoins Will Do More Than Just Reduce Crypto Price Volatility",
+    "tokens" : [ {
+      "id" : "s30-t0",
+      "begin" : 2595,
+      "end" : 2606,
+      "text" : "Stablecoins",
+      "whiteSpace" : false
+    }, {
+      "id" : "s30-t1",
+      "begin" : 2607,
+      "end" : 2611,
+      "text" : "Will",
+      "whiteSpace" : false
+    }, {
+      "id" : "s30-t2",
+      "begin" : 2612,
+      "end" : 2614,
+      "text" : "Do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s30-t3",
+      "begin" : 2615,
+      "end" : 2619,
+      "text" : "More",
+      "whiteSpace" : false
+    }, {
+      "id" : "s30-t4",
+      "begin" : 2620,
+      "end" : 2624,
+      "text" : "Than",
+      "whiteSpace" : false
+    }, {
+      "id" : "s30-t5",
+      "begin" : 2625,
+      "end" : 2629,
+      "text" : "Just",
+      "whiteSpace" : false
+    }, {
+      "id" : "s30-t6",
+      "begin" : 2630,
+      "end" : 2636,
+      "text" : "Reduce",
+      "whiteSpace" : false
+    }, {
+      "id" : "s30-t7",
+      "begin" : 2637,
+      "end" : 2643,
+      "text" : "Crypto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s30-t8",
+      "begin" : 2644,
+      "end" : 2649,
+      "text" : "Price",
+      "whiteSpace" : false
+    }, {
+      "id" : "s30-t9",
+      "begin" : 2650,
+      "end" : 2660,
+      "text" : "Volatility",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s31",
+    "begin" : 2664,
+    "end" : 2747,
+    "text" : "Cryptojacking Falls in Second Quarter, Coinciding with Crypto Bear Market: Research",
+    "tokens" : [ {
+      "id" : "s31-t0",
+      "begin" : 2664,
+      "end" : 2677,
+      "text" : "Cryptojacking",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t1",
+      "begin" : 2678,
+      "end" : 2683,
+      "text" : "Falls",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t2",
+      "begin" : 2684,
+      "end" : 2686,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t3",
+      "begin" : 2687,
+      "end" : 2693,
+      "text" : "Second",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t4",
+      "begin" : 2694,
+      "end" : 2701,
+      "text" : "Quarter",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t5",
+      "begin" : 2701,
+      "end" : 2702,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t6",
+      "begin" : 2703,
+      "end" : 2713,
+      "text" : "Coinciding",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t7",
+      "begin" : 2714,
+      "end" : 2718,
+      "text" : "with",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t8",
+      "begin" : 2719,
+      "end" : 2725,
+      "text" : "Crypto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t9",
+      "begin" : 2726,
+      "end" : 2730,
+      "text" : "Bear",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t10",
+      "begin" : 2731,
+      "end" : 2737,
+      "text" : "Market",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t11",
+      "begin" : 2737,
+      "end" : 2738,
+      "text" : ":",
+      "whiteSpace" : false
+    }, {
+      "id" : "s31-t12",
+      "begin" : 2739,
+      "end" : 2747,
+      "text" : "Research",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s32",
+    "begin" : 2751,
+    "end" : 2832,
+    "text" : "Stellar Lumens (XLM) closing in on XRP (XRP) in dollar terms - What's pushing it?",
+    "tokens" : [ {
+      "id" : "s32-t0",
+      "begin" : 2751,
+      "end" : 2758,
+      "text" : "Stellar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t1",
+      "begin" : 2759,
+      "end" : 2765,
+      "text" : "Lumens",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t2",
+      "begin" : 2766,
+      "end" : 2767,
+      "text" : "(",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t3",
+      "begin" : 2767,
+      "end" : 2770,
+      "text" : "XLM",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t4",
+      "begin" : 2770,
+      "end" : 2771,
+      "text" : ")",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t5",
+      "begin" : 2772,
+      "end" : 2779,
+      "text" : "closing",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t6",
+      "begin" : 2780,
+      "end" : 2782,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t7",
+      "begin" : 2783,
+      "end" : 2785,
+      "text" : "on",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t8",
+      "begin" : 2786,
+      "end" : 2789,
+      "text" : "XRP",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t9",
+      "begin" : 2790,
+      "end" : 2791,
+      "text" : "(",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t10",
+      "begin" : 2791,
+      "end" : 2794,
+      "text" : "XRP",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t11",
+      "begin" : 2794,
+      "end" : 2795,
+      "text" : ")",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t12",
+      "begin" : 2796,
+      "end" : 2798,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t13",
+      "begin" : 2799,
+      "end" : 2805,
+      "text" : "dollar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t14",
+      "begin" : 2806,
+      "end" : 2811,
+      "text" : "terms",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t15",
+      "begin" : 2812,
+      "end" : 2813,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t16",
+      "begin" : 2814,
+      "end" : 2818,
+      "text" : "What",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t17",
+      "begin" : 2818,
+      "end" : 2820,
+      "text" : "'s",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t18",
+      "begin" : 2821,
+      "end" : 2828,
+      "text" : "pushing",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t19",
+      "begin" : 2829,
+      "end" : 2831,
+      "text" : "it",
+      "whiteSpace" : false
+    }, {
+      "id" : "s32-t20",
+      "begin" : 2831,
+      "end" : 2832,
+      "text" : "?",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s33",
+    "begin" : 2836,
+    "end" : 2907,
+    "text" : "3 mining companies have joined a list of \"unicorns\" for the first time.",
+    "tokens" : [ {
+      "id" : "s33-t0",
+      "begin" : 2836,
+      "end" : 2837,
+      "text" : "3",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t1",
+      "begin" : 2838,
+      "end" : 2844,
+      "text" : "mining",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t2",
+      "begin" : 2845,
+      "end" : 2854,
+      "text" : "companies",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t3",
+      "begin" : 2855,
+      "end" : 2859,
+      "text" : "have",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t4",
+      "begin" : 2860,
+      "end" : 2866,
+      "text" : "joined",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t5",
+      "begin" : 2867,
+      "end" : 2868,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t6",
+      "begin" : 2869,
+      "end" : 2873,
+      "text" : "list",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t7",
+      "begin" : 2874,
+      "end" : 2876,
+      "text" : "of",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t8",
+      "begin" : 2877,
+      "end" : 2878,
+      "text" : "\"",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t9",
+      "begin" : 2878,
+      "end" : 2886,
+      "text" : "unicorns",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t10",
+      "begin" : 2886,
+      "end" : 2887,
+      "text" : "\"",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t11",
+      "begin" : 2888,
+      "end" : 2891,
+      "text" : "for",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t12",
+      "begin" : 2892,
+      "end" : 2895,
+      "text" : "the",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t13",
+      "begin" : 2896,
+      "end" : 2901,
+      "text" : "first",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t14",
+      "begin" : 2902,
+      "end" : 2906,
+      "text" : "time",
+      "whiteSpace" : false
+    }, {
+      "id" : "s33-t15",
+      "begin" : 2906,
+      "end" : 2907,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s34",
+    "begin" : 2911,
+    "end" : 2976,
+    "text" : "Government-Backed Blockchain Trade Platform Launches in Singapore",
+    "tokens" : [ {
+      "id" : "s34-t0",
+      "begin" : 2911,
+      "end" : 2921,
+      "text" : "Government",
+      "whiteSpace" : false
+    }, {
+      "id" : "s34-t1",
+      "begin" : 2921,
+      "end" : 2922,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s34-t2",
+      "begin" : 2922,
+      "end" : 2928,
+      "text" : "Backed",
+      "whiteSpace" : false
+    }, {
+      "id" : "s34-t3",
+      "begin" : 2929,
+      "end" : 2939,
+      "text" : "Blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s34-t4",
+      "begin" : 2940,
+      "end" : 2945,
+      "text" : "Trade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s34-t5",
+      "begin" : 2946,
+      "end" : 2954,
+      "text" : "Platform",
+      "whiteSpace" : false
+    }, {
+      "id" : "s34-t6",
+      "begin" : 2955,
+      "end" : 2963,
+      "text" : "Launches",
+      "whiteSpace" : false
+    }, {
+      "id" : "s34-t7",
+      "begin" : 2964,
+      "end" : 2966,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s34-t8",
+      "begin" : 2967,
+      "end" : 2976,
+      "text" : "Singapore",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s35",
+    "begin" : 2980,
+    "end" : 3076,
+    "text" : "These Digital Monsters Live on Ethereum, But They'll Fight on Zilliqa pic.twitter.com/7RYjNMiZhf",
+    "tokens" : [ {
+      "id" : "s35-t0",
+      "begin" : 2980,
+      "end" : 2985,
+      "text" : "These",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t1",
+      "begin" : 2986,
+      "end" : 2993,
+      "text" : "Digital",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t2",
+      "begin" : 2994,
+      "end" : 3002,
+      "text" : "Monsters",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t3",
+      "begin" : 3003,
+      "end" : 3007,
+      "text" : "Live",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t4",
+      "begin" : 3008,
+      "end" : 3010,
+      "text" : "on",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t5",
+      "begin" : 3011,
+      "end" : 3019,
+      "text" : "Ethereum",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t6",
+      "begin" : 3019,
+      "end" : 3020,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t7",
+      "begin" : 3021,
+      "end" : 3024,
+      "text" : "But",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t8",
+      "begin" : 3025,
+      "end" : 3029,
+      "text" : "They",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t9",
+      "begin" : 3029,
+      "end" : 3032,
+      "text" : "'ll",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t10",
+      "begin" : 3033,
+      "end" : 3038,
+      "text" : "Fight",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t11",
+      "begin" : 3039,
+      "end" : 3041,
+      "text" : "on",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t12",
+      "begin" : 3042,
+      "end" : 3049,
+      "text" : "Zilliqa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s35-t13",
+      "begin" : 3050,
+      "end" : 3076,
+      "text" : "pic.twitter.com/7RYjNMiZhf",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s36",
+    "begin" : 3080,
+    "end" : 3146,
+    "text" : "Peter Gabriel invests in British blockchain startup Provenance ...",
+    "tokens" : [ {
+      "id" : "s36-t0",
+      "begin" : 3080,
+      "end" : 3085,
+      "text" : "Peter",
+      "whiteSpace" : false
+    }, {
+      "id" : "s36-t1",
+      "begin" : 3086,
+      "end" : 3093,
+      "text" : "Gabriel",
+      "whiteSpace" : false
+    }, {
+      "id" : "s36-t2",
+      "begin" : 3094,
+      "end" : 3101,
+      "text" : "invests",
+      "whiteSpace" : false
+    }, {
+      "id" : "s36-t3",
+      "begin" : 3102,
+      "end" : 3104,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s36-t4",
+      "begin" : 3105,
+      "end" : 3112,
+      "text" : "British",
+      "whiteSpace" : false
+    }, {
+      "id" : "s36-t5",
+      "begin" : 3113,
+      "end" : 3123,
+      "text" : "blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s36-t6",
+      "begin" : 3124,
+      "end" : 3131,
+      "text" : "startup",
+      "whiteSpace" : false
+    }, {
+      "id" : "s36-t7",
+      "begin" : 3132,
+      "end" : 3142,
+      "text" : "Provenance",
+      "whiteSpace" : false
+    }, {
+      "id" : "s36-t8",
+      "begin" : 3143,
+      "end" : 3146,
+      "text" : "...",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s37",
+    "begin" : 3150,
+    "end" : 3238,
+    "text" : "Peter Gabriel, Former Genesis Frontman, Invests in Blockchain Startup for Food Transport",
+    "tokens" : [ {
+      "id" : "s37-t0",
+      "begin" : 3150,
+      "end" : 3155,
+      "text" : "Peter",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t1",
+      "begin" : 3156,
+      "end" : 3163,
+      "text" : "Gabriel",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t2",
+      "begin" : 3163,
+      "end" : 3164,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t3",
+      "begin" : 3165,
+      "end" : 3171,
+      "text" : "Former",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t4",
+      "begin" : 3172,
+      "end" : 3179,
+      "text" : "Genesis",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t5",
+      "begin" : 3180,
+      "end" : 3188,
+      "text" : "Frontman",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t6",
+      "begin" : 3188,
+      "end" : 3189,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t7",
+      "begin" : 3190,
+      "end" : 3197,
+      "text" : "Invests",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t8",
+      "begin" : 3198,
+      "end" : 3200,
+      "text" : "in",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t9",
+      "begin" : 3201,
+      "end" : 3211,
+      "text" : "Blockchain",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t10",
+      "begin" : 3212,
+      "end" : 3219,
+      "text" : "Startup",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t11",
+      "begin" : 3220,
+      "end" : 3223,
+      "text" : "for",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t12",
+      "begin" : 3224,
+      "end" : 3228,
+      "text" : "Food",
+      "whiteSpace" : false
+    }, {
+      "id" : "s37-t13",
+      "begin" : 3229,
+      "end" : 3238,
+      "text" : "Transport",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s38",
+    "begin" : 3242,
+    "end" : 3311,
+    "text" : "No Matter How You Slice It -- Token Assets Are Coming to Bitcoin Cash",
+    "tokens" : [ {
+      "id" : "s38-t0",
+      "begin" : 3242,
+      "end" : 3244,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t1",
+      "begin" : 3245,
+      "end" : 3251,
+      "text" : "Matter",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t2",
+      "begin" : 3252,
+      "end" : 3255,
+      "text" : "How",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t3",
+      "begin" : 3256,
+      "end" : 3259,
+      "text" : "You",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t4",
+      "begin" : 3260,
+      "end" : 3265,
+      "text" : "Slice",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t5",
+      "begin" : 3266,
+      "end" : 3268,
+      "text" : "It",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t6",
+      "begin" : 3269,
+      "end" : 3271,
+      "text" : "--",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t7",
+      "begin" : 3272,
+      "end" : 3277,
+      "text" : "Token",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t8",
+      "begin" : 3278,
+      "end" : 3284,
+      "text" : "Assets",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t9",
+      "begin" : 3285,
+      "end" : 3288,
+      "text" : "Are",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t10",
+      "begin" : 3289,
+      "end" : 3295,
+      "text" : "Coming",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t11",
+      "begin" : 3296,
+      "end" : 3298,
+      "text" : "to",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t12",
+      "begin" : 3299,
+      "end" : 3306,
+      "text" : "Bitcoin",
+      "whiteSpace" : false
+    }, {
+      "id" : "s38-t13",
+      "begin" : 3307,
+      "end" : 3311,
+      "text" : "Cash",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s39",
+    "begin" : 3315,
+    "end" : 3383,
+    "text" : "Peer-to-peer exchange Paxful is doubling down on developing markets.",
+    "tokens" : [ {
+      "id" : "s39-t0",
+      "begin" : 3315,
+      "end" : 3327,
+      "text" : "Peer-to-peer",
+      "whiteSpace" : false
+    }, {
+      "id" : "s39-t1",
+      "begin" : 3328,
+      "end" : 3336,
+      "text" : "exchange",
+      "whiteSpace" : false
+    }, {
+      "id" : "s39-t2",
+      "begin" : 3337,
+      "end" : 3343,
+      "text" : "Paxful",
+      "whiteSpace" : false
+    }, {
+      "id" : "s39-t3",
+      "begin" : 3344,
+      "end" : 3346,
+      "text" : "is",
+      "whiteSpace" : false
+    }, {
+      "id" : "s39-t4",
+      "begin" : 3347,
+      "end" : 3355,
+      "text" : "doubling",
+      "whiteSpace" : false
+    }, {
+      "id" : "s39-t5",
+      "begin" : 3356,
+      "end" : 3360,
+      "text" : "down",
+      "whiteSpace" : false
+    }, {
+      "id" : "s39-t6",
+      "begin" : 3361,
+      "end" : 3363,
+      "text" : "on",
+      "whiteSpace" : false
+    }, {
+      "id" : "s39-t7",
+      "begin" : 3364,
+      "end" : 3374,
+      "text" : "developing",
+      "whiteSpace" : false
+    }, {
+      "id" : "s39-t8",
+      "begin" : 3375,
+      "end" : 3382,
+      "text" : "markets",
+      "whiteSpace" : false
+    }, {
+      "id" : "s39-t9",
+      "begin" : 3382,
+      "end" : 3383,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s40",
+    "begin" : 3387,
+    "end" : 3456,
+    "text" : "These Digital Monsters Live on Ethereum, But They'll Fight on Zilliqa",
+    "tokens" : [ {
+      "id" : "s40-t0",
+      "begin" : 3387,
+      "end" : 3392,
+      "text" : "These",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t1",
+      "begin" : 3393,
+      "end" : 3400,
+      "text" : "Digital",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t2",
+      "begin" : 3401,
+      "end" : 3409,
+      "text" : "Monsters",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t3",
+      "begin" : 3410,
+      "end" : 3414,
+      "text" : "Live",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t4",
+      "begin" : 3415,
+      "end" : 3417,
+      "text" : "on",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t5",
+      "begin" : 3418,
+      "end" : 3426,
+      "text" : "Ethereum",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t6",
+      "begin" : 3426,
+      "end" : 3427,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t7",
+      "begin" : 3428,
+      "end" : 3431,
+      "text" : "But",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t8",
+      "begin" : 3432,
+      "end" : 3436,
+      "text" : "They",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t9",
+      "begin" : 3436,
+      "end" : 3439,
+      "text" : "'ll",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t10",
+      "begin" : 3440,
+      "end" : 3445,
+      "text" : "Fight",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t11",
+      "begin" : 3446,
+      "end" : 3448,
+      "text" : "on",
+      "whiteSpace" : false
+    }, {
+      "id" : "s40-t12",
+      "begin" : 3449,
+      "end" : 3456,
+      "text" : "Zilliqa",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 0,
+    "end" : 85,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 97,
+    "end" : 136,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 173,
+    "end" : 226,
+    "inCoref" : false
+  }, {
+    "id" : "s3-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "veryimportant",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "veryimportant",
+    "begin" : 297,
+    "end" : 334,
+    "inCoref" : false
+  }, {
+    "id" : "s4-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 374,
+    "end" : 458,
+    "inCoref" : false
+  }, {
+    "id" : "s5-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 462,
+    "end" : 493,
+    "inCoref" : false
+  }, {
+    "id" : "s6-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 562,
+    "end" : 603,
+    "inCoref" : false
+  }, {
+    "id" : "s7-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 677,
+    "end" : 720,
+    "inCoref" : false
+  }, {
+    "id" : "s8-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 732,
+    "end" : 769,
+    "inCoref" : false
+  }, {
+    "id" : "s9-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 811,
+    "end" : 852,
+    "inCoref" : false
+  }, {
+    "id" : "s10-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 901,
+    "end" : 999,
+    "inCoref" : false
+  }, {
+    "id" : "s11-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 1007,
+    "end" : 1096,
+    "inCoref" : false
+  }, {
+    "id" : "s11-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 1012,
+    "end" : 1096,
+    "inCoref" : false
+  }, {
+    "id" : "s12-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 1111,
+    "end" : 1190,
+    "inCoref" : false
+  }, {
+    "id" : "s13-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "veryimportant",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "veryimportant",
+    "begin" : 1194,
+    "end" : 1228,
+    "inCoref" : false
+  }, {
+    "id" : "s14-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 1252,
+    "end" : 1321,
+    "inCoref" : false
+  }, {
+    "id" : "s15-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 1339,
+    "end" : 1415,
+    "inCoref" : false
+  }, {
+    "id" : "s16-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 1419,
+    "end" : 1496,
+    "inCoref" : false
+  }, {
+    "id" : "s17-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 1562,
+    "end" : 1602,
+    "inCoref" : false
+  }, {
+    "id" : "s18-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 1617,
+    "end" : 1692,
+    "inCoref" : false
+  }, {
+    "id" : "s20-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 1706,
+    "end" : 1764,
+    "inCoref" : false
+  }, {
+    "id" : "s21-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 1768,
+    "end" : 1844,
+    "inCoref" : false
+  }, {
+    "id" : "s22-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 1868,
+    "end" : 1896,
+    "inCoref" : false
+  }, {
+    "id" : "s23-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 1984,
+    "end" : 2020,
+    "inCoref" : false
+  }, {
+    "id" : "s24-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 2066,
+    "end" : 2112,
+    "inCoref" : false
+  }, {
+    "id" : "s25-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 2146,
+    "end" : 2212,
+    "inCoref" : false
+  }, {
+    "id" : "s26-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 2242,
+    "end" : 2278,
+    "inCoref" : false
+  }, {
+    "id" : "s27-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 2313,
+    "end" : 2378,
+    "inCoref" : false
+  }, {
+    "id" : "s28-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 2436,
+    "end" : 2445,
+    "inCoref" : false
+  }, {
+    "id" : "s29-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 2478,
+    "end" : 2591,
+    "inCoref" : false
+  }, {
+    "id" : "s30-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 2595,
+    "end" : 2660,
+    "inCoref" : false
+  }, {
+    "id" : "s31-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 2664,
+    "end" : 2701,
+    "inCoref" : false
+  }, {
+    "id" : "s32-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 2751,
+    "end" : 2811,
+    "inCoref" : false
+  }, {
+    "id" : "s33-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 2838,
+    "end" : 2887,
+    "inCoref" : false
+  }, {
+    "id" : "s34-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 2911,
+    "end" : 2976,
+    "inCoref" : false
+  }, {
+    "id" : "s35-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 2986,
+    "end" : 3019,
+    "inCoref" : false
+  }, {
+    "id" : "s36-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 3080,
+    "end" : 3146,
+    "inCoref" : false
+  }, {
+    "id" : "s37-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "noncrypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "noncrypto",
+    "begin" : 3150,
+    "end" : 3238,
+    "inCoref" : false
+  }, {
+    "id" : "s38-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "important",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "important",
+    "begin" : 3272,
+    "end" : 3311,
+    "inCoref" : false
+  }, {
+    "id" : "s39-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 3315,
+    "end" : 3382,
+    "inCoref" : false
+  }, {
+    "id" : "s40-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "crypto",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "crypto",
+    "begin" : 3393,
+    "end" : 3426,
+    "inCoref" : false
+  } ],
+  "relations" : [ ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

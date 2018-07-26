@@ -1,0 +1,26 @@
+[ {
+  "id" : "id-all",
+  "name" : "All",
+  "createdDate" : 0,
+  "documents" : [ "4d594630-8fe1-11e8-ab4d-b54502b7a0de-0", "4d594630-8fe1-11e8-ab4d-b54502b7a0de-1", "4d594630-8fe1-11e8-ab4d-b54502b7a0de-2" ],
+  "type" : "ALL",
+  "modifiedDate" : 0,
+  "count" : 3
+}, {
+  "id" : "4d594630-8fe1-11e8-ab4d-b54502b7a0de",
+  "name" : "crypto_data_0.txt_set",
+  "createdDate" : 1532505846291,
+  "documents" : [ "4d594630-8fe1-11e8-ab4d-b54502b7a0de-0", "4d594630-8fe1-11e8-ab4d-b54502b7a0de-1", "4d594630-8fe1-11e8-ab4d-b54502b7a0de-2" ],
+  "type" : "SOURCE",
+  "modifiedDate" : 1532505846291,
+  "count" : 3
+}, {
+  "id" : "69e72650-8fe1-11e8-81c3-b1a2615f4bc2",
+  "name" : "crytocurrency",
+  "createdDate" : 1532505894197,
+  "documents" : [ "4d594630-8fe1-11e8-ab4d-b54502b7a0de-0", "4d594630-8fe1-11e8-ab4d-b54502b7a0de-1", "4d594630-8fe1-11e8-ab4d-b54502b7a0de-2" ],
+  "type" : "ASSIGNMENT",
+  "annotator" : "silvadom2014@gmail.com",
+  "modifiedDate" : 1532505894197,
+  "count" : 3
+} ]
