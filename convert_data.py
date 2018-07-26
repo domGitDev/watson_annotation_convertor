@@ -5,6 +5,9 @@
     'category2': [],
     ....
   }
+  
+  Command: 
+    convert_data.py path_to_json_files out_data.json
  """
 import os
 import json
